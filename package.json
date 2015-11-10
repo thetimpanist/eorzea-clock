@@ -1,0 +1,15 @@
+{
+  "name": "eorzea-clock",
+  "version": "1.0.0",
+  "description": "FFXIV clock and weather module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ffxiv",
+    "eorzea"
+  ],
+  "author": "Chuck Newport <marimba.chuck@gmail.com> (https://github.com/thetimpanist)",
+  "license": "ISC"
+}
